@@ -8,7 +8,6 @@
 
 
 ## Changes in the Readme.md file in the master branch 
-=======
 
-##Change to the read me file in the hot-fix branch
+## Change to the read me file in the hot-fix branch
 
